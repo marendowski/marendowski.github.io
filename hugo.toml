@@ -1,0 +1,46 @@
+baseurl = "https://example.com/"
+title = "Bogdan The Great"
+languageCode = "en-us"
+
+# theme = "hugo-theme-console"
+
+[markup]
+    [markup.highlight]
+        anchorLineNos = false
+        codeFences = true
+        guessSyntax = false
+        hl_Lines = ''
+        hl_inline = false
+        lineAnchors = ''
+        lineNoStart = 1
+        lineNos = false
+        lineNumbersInTable = true
+        noClasses = true
+        noHl = false
+        # https://gohugo.io/content-management/syntax-highlighting/
+        style = 'monokailight'
+        tabWidth = 4
+
+[params]
+# Cutting off the page title to two chars for mobile (console-demo -> co)
+titleCutting = true
+
+# Set the animation style -- https://animate.style/
+# To disable animations, please remove or comment animationStyle parameter
+# animateStyle = "animated zoomIn fast" 
+
+[[params.navlinks]]
+name = "lists/"
+url = "lists/"
+
+[[params.navlinks]]
+name = "posts/"
+url = "posts/"
+
+[[params.navlinks]]
+name = "projects/"
+url = "projects/"
+
+[[params.navlinks]]
+name = "about/"
+url = "about"
