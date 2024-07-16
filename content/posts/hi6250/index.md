@@ -1,6 +1,7 @@
 +++
 title = "Installing a custom ROM on Huawei hi6250 devices"
 date = "2024-02-18"
+tags = ["technical", "howto"]
 +++
 
 About installing a [custom ROM](https://en.wikipedia.org/wiki/Custom_firmware#Android) on Huawei hi6250 devices.

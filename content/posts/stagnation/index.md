@@ -1,6 +1,7 @@
 +++
 title = "Comfort breeds stagnation"
 date = "2024-05-21"
+tags = ["non-technical", "technical", "self-development"]
 +++
 
 This post describes my own quote, which I think is really well thought out and can help other people overcome their problems.

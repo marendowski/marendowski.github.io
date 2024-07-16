@@ -1,6 +1,7 @@
 +++
 title = "Keep it simple, not simpler"
 date = "2024-06-30"
+tags = ["technical", "self-development"]
 +++
 
 All about minimal software and how to stop being an optimizing junkie.
@@ -8,7 +9,7 @@ All about minimal software and how to stop being an optimizing junkie.
 
 <!--more-->
 
-![Keep It Simple](kiss.jpg)
+![Keep It Simple sign](kiss.jpg)
 
 ## The root of all our problems
 

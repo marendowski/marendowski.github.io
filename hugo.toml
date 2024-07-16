@@ -30,8 +30,8 @@ languageCode = "en-us"
 # animateStyle = "animated zoomIn fast" 
 
 [[params.navlinks]]
-name = "lists/"
-url = "lists/"
+name = "personal/"
+url = "personal/"
 
 [[params.navlinks]]
 name = "posts/"
