@@ -3,7 +3,7 @@ title = "Articles and websites"
 date = "1970-01-01"
 +++
 
-List of articles and websites I recommend.
+Written content I recommend.
 <!--more-->
 
 ## Articles
@@ -17,22 +17,24 @@ List of articles and websites I recommend.
 - [Unix as IDE](https://blog.sanctum.geek.nz/series/unix-as-ide/) - [Discussion on HN](https://news.ycombinator.com/item?id=12653028) 
 - [Best of Craigslist](https://www.craigslist.org/about/best/all/)
 
-## Blogs
+## Blogs/Magazines
 
 - [Drew DeVault's blog](https://drewdevault.com/)
 - [Tonsky's blog](https://tonsky.me/)
 - [PostmarketOS blog](https://postmarketos.org/blog/)
+- [IEEE Spectrum](https://spectrum.ieee.org/)
 
 ## Organizations
 
 - [EFF](https://www.eff.org/)
-- [IEEE Spectrum](https://spectrum.ieee.org/)
 - [Public money, public code](https://publiccode.eu/en/)
+- [The Repair Association](https://www.repair.org/)
 
 ## Websites
 
-- [500mile.email](https://500mile.email/)
+- [IFIXIT](https://www.ifixit.com/)
 - [wiby.me](https://wiby.me/) - [Discussion on HN](https://news.ycombinator.com/item?id=30639225)
+- [500mile.email](https://500mile.email/)
 - [Blaze File Transfer](https://blaze.vercel.app/)
 - [Every Noise](https://everynoise.com) - [Discussion on HN](https://news.ycombinator.com/item?id=26668426)
 - [Music Map](https://www.music-map.com/) - [Discussion on HN](https://news.ycombinator.com/item?id=38481426)

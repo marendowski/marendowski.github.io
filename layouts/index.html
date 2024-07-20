@@ -5,7 +5,7 @@
 I’m an IT student. Right now I’m really interested in GNU/Linux and software for it. I really like programming and would like to continue my career in this field. I also like things to be relatively simple so that I can tinker with them. More in <a href="about" title="about">about</a>.
 </p>
 
-<h1>Latest posts</h1>
+<h1>Latest <a href="/posts">posts</a></h1>
 
 <div class="posts-list">
 {{ with .Site.GetPage "/posts" }}
@@ -21,25 +21,25 @@ I’m an IT student. Right now I’m really interested in GNU/Linux and software
 {{ end }}
 </div>
 
-<br>
-<h1>Featured projects, WILL ADD PROJECTS WHEN I'LL FINISH THEM</h1>
-
-<div class="image-grid">
-{{ with .Site.GetPage "/projects" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-            {{ $image := .Page.Resources.GetMatch .Params.image }}
-            {{ with $image }}
-                {{ $thumb := .Resize "1000x" }}
-                <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-            {{end}}
-
-            <div style="text-align: center;">
-                {{ .Title }}
-            </div>
-        </a>
-    {{ end }}
-{{ end }}
-</div>
+<!-- <br> -->
+<!-- <h1>Featured projects, WILL ADD PROJECTS WHEN I'LL FINISH THEM</h1> -->
+<!---->
+<!-- <div class="image-grid"> -->
+<!-- {{ with .Site.GetPage "/projects" }} -->
+<!--     {{ range first 3 (sort .Data.Pages "Date" "desc")}} -->
+<!--         <a href="{{ .Permalink }}" title="{{ .Title }}"> -->
+<!--             {{ $image := .Page.Resources.GetMatch .Params.image }} -->
+<!--             {{ with $image }} -->
+<!--                 {{ $thumb := .Resize "1000x" }} -->
+<!--                 <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive"> -->
+<!--             {{end}} -->
+<!---->
+<!--             <div style="text-align: center;"> -->
+<!--                 {{ .Title }} -->
+<!--             </div> -->
+<!--         </a> -->
+<!--     {{ end }} -->
+<!-- {{ end }} -->
+<!-- </div> -->
 
 {{ end }}

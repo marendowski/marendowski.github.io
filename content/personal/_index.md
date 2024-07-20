@@ -2,4 +2,4 @@
 title = "Personal"
 +++
 
-More personal things that I aggregated.
+Personal things that I aggregated.

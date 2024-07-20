@@ -10,13 +10,13 @@ It's [Ricky from Trailer Park Boys](https://en.wikipedia.org/wiki/Ricky_(Trailer
 I'm an IT student. Right now I'm really interested in GNU/Linux and software for it. I really like programming and would like to continue my career in this field. I also like things to be relatively simple so that I can tinker with them.
 
 
-To see my projects enter [this section](../projects) or my profiles on [Codeberg](https://codeberg.org/bogdan-the-great) and [Github](https://github.com/bogdan-the-great). My dotfiles are available on [Codeberg](https://codeberg.org/bogdan-the-great/dotfiles).
+Read about my projects in [projects](../projects) or on [Codeberg](https://codeberg.org/bogdan-the-great) and [Github](https://github.com/bogdan-the-great). My dotfiles are available on [Codeberg](https://codeberg.org/bogdan-the-great/dotfiles).
 
 I'm from Poland, where I'm currently studying computer science. I speak Polish, English and Spanish (still learning).
 
 Check out my [personal](../personal/) section to learn more about things I like or recommend.
 
-### My contact e-mail: piotr [dash] marendowski [at] tutanota [dot] com
+### My contact e-mail: piotr-marendowski [at] tutanota [dot] com
 
 # Attribution
 

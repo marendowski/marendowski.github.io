@@ -3,7 +3,7 @@ title = "Video games"
 date = "1970-01-01"
 +++
 
-My list of the best video games of all time.
+The best video games of all time.
 <!--more-->
 
 I spend most of my time playing on the PC, but I also have PS4 and played some exclusives there. I don't think that I'll buy another console anytime soon. Also I'm here talking about the whole franchise (or otherwise specified).

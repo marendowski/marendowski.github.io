@@ -3,7 +3,7 @@ title = "Anime"
 date = "1970-01-01"
 +++
 
-My list of the best anime series and movies of all time.
+The best anime series and movies of all time.
 <!--more-->
 
 In pseudo-random order (biased). Links to entries are for their first installments.
@@ -28,3 +28,13 @@ In pseudo-random order (biased). Links to entries are for their first installmen
 [Attack on Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin) | Military, Titans | Do I need to write something?
 
 As of 28-06-2024 MyAnimeList shows 48 days, 210 total entries and 2723 episodes total!
+
+
+## Western "anime"
+
+Feels like anime, but apparently was made in the west.
+
+|  Title  |  Genre  |  Description  |
+|:-------:|:-------:|:-------------:|
+[Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender) | Action, Adventure, Comedy, Drama, Fantasy | One of the best "anime" I've watched. An epic adventure with a meaning.
+[Samurai Jack](https://en.wikipedia.org/wiki/Samurai_Jack) | Action, Adventure, Drama, Dystopian science fantasy | Beautiful animation, action-packed series. Really worth watching even for the last season only.
