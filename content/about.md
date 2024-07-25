@@ -3,10 +3,6 @@ title = "About"
 layout = "about"
 +++
 
-It's [Ricky from Trailer Park Boys](https://en.wikipedia.org/wiki/Ricky_(Trailer_Park_Boys)), my pictures will be uploaded here one day.
-
-----------
-
 I'm an IT student. Right now I'm really interested in GNU/Linux and software for it. I really like programming and would like to continue my career in this field. I also like things to be relatively simple so that I can tinker with them.
 
 
@@ -18,7 +14,7 @@ Check out my [personal](../personal/) section to learn more about things I like 
 
 ### My contact e-mail: piotr-marendowski [at] tutanota [dot] com
 
-# Attribution
+## Attribution
 
 This website is made with [hugo](https://gohugo.io) using the [console theme](https://github.com/mrmierzejewski/hugo-theme-console) with my enhancements, works without any JavaScript and is great for viewing with [Dark Reader](https://darkreader.org/) or similar software, it also supports RSS feed for the blog posts.
 

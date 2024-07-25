@@ -36,5 +36,5 @@ Feels like anime, but apparently was made in the west.
 
 |  Title  |  Genre  |  Description  |
 |:-------:|:-------:|:-------------:|
-[Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender) | Action, Adventure, Comedy, Drama, Fantasy | One of the best "anime" I've watched. An epic adventure with a meaning.
+[Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender) | Action, Adventure, Comedy, Drama, Fantasy | One of the best "anime" I've watched. An epic adventure, fun and meaningful.
 [Samurai Jack](https://en.wikipedia.org/wiki/Samurai_Jack) | Action, Adventure, Drama, Dystopian science fantasy | Beautiful animation, action-packed series. Really worth watching even for the last season only.

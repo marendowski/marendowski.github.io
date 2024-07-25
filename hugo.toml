@@ -20,6 +20,10 @@ languageCode = "en-us"
         # https://gohugo.io/content-management/syntax-highlighting/
         style = 'monokailight'
         tabWidth = 4
+    [markup.tableOfContents]
+        endLevel = 3
+        ordered = true
+        startLevel = 2
 
 [params]
 # Cutting off the page title to two chars for mobile (console-demo -> co)

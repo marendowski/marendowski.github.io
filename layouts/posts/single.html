@@ -1,10 +1,16 @@
 {{ define "main" }}
-    <h1>{{ .Title }}</h1>
-
     {{ .PublishDate.Format "Jan 2 2006" }}
 
-    <br><br><br>
-    {{ .Content }}
+    {{ if not (.Date.Equal .Lastmod) }}
+        ({{ .Lastmod.Format "Jan 2 2006" }})
+    {{ end }}
 
-    {{ partial "tags.html" .}}
+    {{ partial "tags.html" . }}
+
+    <br>
+    {{ .TableOfContents }}
+
+    <br>
+    <h1>{{ .Title }}</h1>
+    {{ partial "anchor.html" .Content }}
 {{ end }}

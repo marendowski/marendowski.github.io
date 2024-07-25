@@ -5,7 +5,7 @@
 I’m an IT student. Right now I’m really interested in GNU/Linux and software for it. I really like programming and would like to continue my career in this field. I also like things to be relatively simple so that I can tinker with them. More in <a href="about" title="about">about</a>.
 </p>
 
-<h1>Latest <a href="/posts">posts</a></h1>
+<h2>Latest <a href="/posts">posts</a></h2>
 
 <div class="posts-list">
 {{ with .Site.GetPage "/posts" }}
@@ -13,7 +13,7 @@ I’m an IT student. Right now I’m really interested in GNU/Linux and software
         <div class="post">
             <p>
                 <div class="date">{{ .PublishDate.Format "Jan 2 2006" }}</div>
-                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                <p><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></p>
                 {{ .Summary }}
             </p>
         </div>    
