@@ -3,8 +3,7 @@ title = "About"
 layout = "about"
 +++
 
-I'm an IT student. Right now I'm really interested in GNU/Linux and software for it. I really like programming and would like to continue my career in this field. I also like things to be relatively simple so that I can tinker with them.
-
+I'm an IT student. Right now I'm really interested in GNU/Linux and software for it. I really like programming and would like to continue my career in this field. I like to tinker with software (and more or less hardware). I support the [Right To Repair](https://en.wikipedia.org/wiki/Right_to_repair) movement and I'm a [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) enthusiast. My hobby is learning languages.
 
 Read about my projects in [projects](../projects) or on [Codeberg](https://codeberg.org/bogdan-the-great) and [Github](https://github.com/bogdan-the-great). My dotfiles are available on [Codeberg](https://codeberg.org/bogdan-the-great/dotfiles).
 

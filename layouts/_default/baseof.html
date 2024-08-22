@@ -9,6 +9,8 @@
     <meta name="robots" content="all,follow">
     <meta name="googlebot" content="index,follow,snippet,archive">
     <link rel="stylesheet" href='{{ "css/main.css" | absURL }}'>
+    <!-- custom css for projects -->
+    {{ with .Params.customcss }}<link rel="stylesheet" href="{{ . }}" />{{ end }}
     {{- partial "favicon.html" . -}}
     {{ with .OutputFormats.Get "RSS" }}
         {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}

@@ -2,7 +2,7 @@
 
 <br>
 <p>
-I’m an IT student. Right now I’m really interested in GNU/Linux and software for it. I really like programming and would like to continue my career in this field. I also like things to be relatively simple so that I can tinker with them. More in <a href="about" title="about">about</a>.
+I’m an IT student. Right now I’m really interested in GNU/Linux and software for it. I really like programming and would like to continue my career in this field. More in <a href="about" title="about">about</a>.
 </p>
 
 <h2>Latest <a href="/posts">posts</a></h2>
@@ -21,25 +21,24 @@ I’m an IT student. Right now I’m really interested in GNU/Linux and software
 {{ end }}
 </div>
 
-<!-- <br> -->
-<!-- <h1>Featured projects, WILL ADD PROJECTS WHEN I'LL FINISH THEM</h1> -->
-<!---->
-<!-- <div class="image-grid"> -->
-<!-- {{ with .Site.GetPage "/projects" }} -->
-<!--     {{ range first 3 (sort .Data.Pages "Date" "desc")}} -->
-<!--         <a href="{{ .Permalink }}" title="{{ .Title }}"> -->
-<!--             {{ $image := .Page.Resources.GetMatch .Params.image }} -->
-<!--             {{ with $image }} -->
-<!--                 {{ $thumb := .Resize "1000x" }} -->
-<!--                 <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive"> -->
-<!--             {{end}} -->
-<!---->
-<!--             <div style="text-align: center;"> -->
-<!--                 {{ .Title }} -->
-<!--             </div> -->
-<!--         </a> -->
-<!--     {{ end }} -->
-<!-- {{ end }} -->
-<!-- </div> -->
+<h2>Latest <a href="/projects">projects</a></h2>
+
+<div class="image-grid">
+{{ with .Site.GetPage "/projects" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+            {{ $image := .Page.Resources.GetMatch .Params.image }}
+            {{ with $image }}
+                {{ $thumb := .Resize "1000x" }}
+                <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+            {{end}}
+
+            <div style="text-align: center;">
+                {{ .Title }}
+            </div>
+        </a>
+    {{ end }}
+{{ end }}
+</div>
 
 {{ end }}

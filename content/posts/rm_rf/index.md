@@ -3,7 +3,7 @@ title = "I ran `sudo rm -rf /*` because I wanted to change the font size"
 summary = "And I'm mad."
 date = "2024-07-14"
 lastmod = "2024-07-24"
-tags = ["technical", "news", "rant"]
+tags = ["technical", "linux", "news", "rant"]
 +++
 
 Because mrmierzejewski (in [this site's theme](https://github.com/mrmierzejewski/hugo-theme-console)) can't fucking make two css files logical and has to use cryptic names and change everything everywhere while not using variables which he created to make it easier. CSS of this theme is a fucking joke, half of it isn't even used.

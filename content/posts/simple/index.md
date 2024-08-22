@@ -1,7 +1,7 @@
 +++
 title = "Keep it simple, not simpler"
 date = "2024-06-30"
-tags = ["technical", "self-development"]
+tags = ["technical", "linux", "self-development"]
 +++
 
 All about minimal software and how to stop being an optimizing junkie.
