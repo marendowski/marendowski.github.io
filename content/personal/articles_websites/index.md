@@ -3,8 +3,10 @@ title = "Articles and websites"
 date = "1970-01-01"
 +++
 
-Written content I recommend. `HN` stands for a discussion on [Hacker News](https://en.wikipedia.org/wiki/Hacker_News).
+Written content I recommend.
 <!--more-->
+
+`HN` stands for a discussion on [Hacker News](https://en.wikipedia.org/wiki/Hacker_News).
 
 ## Articles
 
