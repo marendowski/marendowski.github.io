@@ -30,6 +30,8 @@ Written content I recommend.
 - [In Loving Memory of Square Checkbox](https://tonsky.me/blog/checkbox/) ----- [HN](https://news.ycombinator.com/item?id=39161339)
 - [The Upstream Cause of the Youth Mental Health Crisis is the Loss of Community](https://www.afterbabel.com/p/the-upstream-cause-of-the-youth-mental) ----- [HN](https://news.ycombinator.com/item?id=41139150)
 - [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf) ----- [HN](https://news.ycombinator.com/item?id=23229241)
+- [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html) ---- [HN](https://news.ycombinator.com/item?id=41635583)
+- [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/) ----- [HN](https://news.ycombinator.com/item?id=41646531)
 
 ## Blogs/Magazines
 
