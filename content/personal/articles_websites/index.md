@@ -32,6 +32,7 @@ Written content I recommend.
 - [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf) ----- [HN](https://news.ycombinator.com/item?id=23229241)
 - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html) ---- [HN](https://news.ycombinator.com/item?id=41635583)
 - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/) ----- [HN](https://news.ycombinator.com/item?id=41646531)
+- [Don't build your castle in other people's kingdoms](https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/) ----- [HN](https://news.ycombinator.com/item?id=41712885)
 
 ## Blogs/Magazines
 
@@ -55,9 +56,11 @@ Written content I recommend.
 - [Every Noise](https://everynoise.com) ----- [HN](https://news.ycombinator.com/item?id=26668426)
 - [Music Map](https://www.music-map.com/) ----- [HN](https://news.ycombinator.com/item?id=38481426)
 - [kvak.io](https://kvak.io/about)
-- [Are We Wayland Yet?](https://arewewaylandyet.com/)
+- [We are Wayland now!](https://wearewaylandnow.com)
 - [Are We Sixel Yet?](https://www.arewesixelyet.com/)
 - [Hot Examples](https://hotexamples.com/)
 - [suckless.org](https://suckless.org/)
 - [Public Domain Recipes](https://publicdomainrecipes.com/)
 - [Marginalia Search](https://search.marginalia.nu/)
+- [Linux From Scratch](https://www.linuxfromscratch.org/index.html) ----- [HN](https://news.ycombinator.com/item?id=41747966)
+- [GOG](https://www.gog.com)

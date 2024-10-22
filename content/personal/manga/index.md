@@ -3,7 +3,7 @@ title = "Manga"
 date = "1970-01-01"
 +++
 
-The best manga of all time.
+Manga I recommend.
 <!--more-->
 
 In pseudo-random order (biased). Links to entries are for their first installments. I need to read more.

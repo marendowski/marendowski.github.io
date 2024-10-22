@@ -3,10 +3,10 @@ title = "Anime"
 date = "1970-01-01"
 +++
 
-The best anime series and movies of all time.
+Anime series and movies I recommend.
 <!--more-->
 
-In pseudo-random order (biased). Links to entries are for their first installments.
+In pseudo-random order (biased). Links are to their first installments.
 
 |  Title  |  Genre  |  Description  |
 |:-------:|:-------:|:-------------:|
