@@ -6,7 +6,9 @@ type = "gallery"
 customcss = "/css/projects.css"
 +++
 
-# [sip](https://codeberg.org/bogdan-the-great/sip)
+{{< rawhtml >}}
+    <h1><a href="https://codeberg.org/bogdan-the-great/sip" target="_blank">sip</a></h1>
+{{< /rawhtml >}}
 
 ![a](sip2.png)
 

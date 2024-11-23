@@ -6,7 +6,9 @@ type = "gallery"
 customcss = "/css/projects.css"
 +++
 
-# [luft](https://codeberg.org/bogdan-the-great/luft)
+{{< rawhtml >}}
+    <h1><a href="https://codeberg.org/bogdan-the-great/luft" target="_blank">luft</a></h1>
+{{< /rawhtml >}}
 
 ![a](luft2.png)
 

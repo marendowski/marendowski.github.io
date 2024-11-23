@@ -6,7 +6,9 @@ type = "gallery"
 customcss = "/css/projects.css"
 +++
 
-# [code-runner](https://codeberg.org/bogdan-the-great/code-runner)
+{{< rawhtml >}}
+    <h1><a href="https://codeberg.org/bogdan-the-great/code-runner" target="_blank">code-runner</a></h1>
+{{< /rawhtml >}}
 
 ![code-runner](code-runner2.png)
 
