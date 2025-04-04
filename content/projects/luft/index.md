@@ -7,7 +7,7 @@ customcss = "/css/projects.css"
 +++
 
 {{< rawhtml >}}
-    <h1><a href="https://codeberg.org/bogdan-the-great/luft" target="_blank">luft</a></h1>
+    <h1><a href="https://codeberg.org/marendowski/luft" target="_blank">luft</a></h1>
 {{< /rawhtml >}}
 
 ![a](luft2.png)

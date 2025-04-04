@@ -7,7 +7,7 @@ customcss = "/css/projects.css"
 +++
 
 {{< rawhtml >}}
-    <h1><a href="https://codeberg.org/bogdan-the-great/sip" target="_blank">sip</a></h1>
+    <h1><a href="https://codeberg.org/marendowski/sip" target="_blank">sip</a></h1>
 {{< /rawhtml >}}
 
 ![a](sip2.png)

@@ -10,7 +10,7 @@ How I made my second real project and what problems I had to overcome.
 
 ![air](air.jpg)
 
-[link to the Codeberg repo](https://codeberg.org/bogdan-the-great/luft)
+[link to the Codeberg repo](https://codeberg.org/marendowski/luft)
 
 ## The inspiration
 
