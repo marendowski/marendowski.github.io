@@ -72,6 +72,8 @@ Written content I recommend.
 - [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/) ----- [HN](https://news.ycombinator.com/item?id=41909564)
 - [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed) ----- [HN](https://news.ycombinator.com/item?id=43473618)
 - [Go European: Discover European products and services](https://www.goeuropean.org/) ----- [HN](https://news.ycombinator.com/item?id=43318798)
+- [How to Use Em Dashes (—), En Dashes (–) , and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use) ----- [HN](https://news.ycombinator.com/item?id=43497719)
+- [Cozy video games can quell stress and anxiety](https://www.reuters.com/graphics/VIDEO-GAMES/MENTAL-HEALTH/akpeewkqgpr/) ----- [HN](https://news.ycombinator.com/item?id=43733097)
 
 ## Blogs/Magazines
 
