@@ -4,6 +4,7 @@ date = "1970-01-01"
 +++
 
 Anime series and movies I recommend.
+
 <!--more-->
 
 In pseudo-random order (biased). Links are to their first installments.
@@ -26,8 +27,6 @@ In pseudo-random order (biased). Links are to their first installments.
 [Samurai Champloo](https://myanimelist.net/anime/205/Samurai_Champloo) | Action, Adventure, Comedy | From the Cowboy Bebop director. Where history and cool fights mix with what was to become a lofi hip-hop.
 [Konosuba](https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo) | Isekai, Comedy | Super fun to watch, guilty pleasure.
 [Attack on Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin) | Military, Titans | Do I need to write something?
-
-As of 28-06-2024 MyAnimeList shows 48 days, 210 total entries and 2723 episodes total!
 
 
 ## Western "anime"

@@ -14,4 +14,4 @@ customcss = "/css/projects.css"
 
 ## About
 
-Second project related to graphics and drawing (on the screen). [The making of luft](../../posts/luft) describes the turbulent development of it.
+Second project related to graphics and drawing (on the screen) in Linux. [The making of luft](../../posts/luft) describes the turbulent development of it.

@@ -8,6 +8,38 @@ Written content I recommend.
 
 `HN` stands for a discussion on [Hacker News](https://en.wikipedia.org/wiki/Hacker_News).
 
+## Blogs/Magazines
+
+- [Drew DeVault's blog](https://drewdevault.com/)
+- [Tonsky's blog](https://tonsky.me/)
+- [PostmarketOS blog](https://postmarketos.org/blog/)
+- [IEEE Spectrum](https://spectrum.ieee.org/)
+- [404 Media](https://www.404media.co/)
+
+## Organizations
+
+- [EFF](https://www.eff.org/)
+- [Public money, public code](https://publiccode.eu/en/)
+- [The Repair Association](https://www.repair.org/)
+
+## Websites
+
+- [ifixit](https://www.ifixit.com/)
+- [wiby.me](https://wiby.me/) ----- [HN](https://news.ycombinator.com/item?id=30639225)
+- [500mile.email](https://500mile.email/)
+- [Blaze File Transfer](https://blaze.vercel.app/)
+- [Every Noise](https://everynoise.com) ----- [HN](https://news.ycombinator.com/item?id=26668426)
+- [Music Map](https://www.music-map.com/) ----- [HN](https://news.ycombinator.com/item?id=38481426)
+- [kvak.io](https://kvak.io/about)
+- [We are Wayland now!](https://wearewaylandnow.com)
+- [Are We Sixel Yet?](https://www.arewesixelyet.com/)
+- [Hot Examples](https://hotexamples.com/)
+- [suckless.org](https://suckless.org/)
+- [Public Domain Recipes](https://publicdomainrecipes.com/)
+- [Marginalia Search](https://search.marginalia.nu/)
+- [Linux From Scratch](https://www.linuxfromscratch.org/index.html) ----- [HN](https://news.ycombinator.com/item?id=41747966)
+- [GOG](https://www.gog.com)
+
 ## Articles
 
 - [Don't ask to ask, just ask](https://dontasktoask.com/) ----- [HN](https://news.ycombinator.com/item?id=30639225)
@@ -72,36 +104,9 @@ Written content I recommend.
 - [Math is still catching up to the genius of Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/) ----- [HN](https://news.ycombinator.com/item?id=41909564)
 - [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed) ----- [HN](https://news.ycombinator.com/item?id=43473618)
 - [Go European: Discover European products and services](https://www.goeuropean.org/) ----- [HN](https://news.ycombinator.com/item?id=43318798)
-- [How to Use Em Dashes (—), En Dashes (–) , and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use) ----- [HN](https://news.ycombinator.com/item?id=43497719)
 - [Cozy video games can quell stress and anxiety](https://www.reuters.com/graphics/VIDEO-GAMES/MENTAL-HEALTH/akpeewkqgpr/) ----- [HN](https://news.ycombinator.com/item?id=43733097)
+- [How to post when no one is reading](https://www.jeetmehta.com/posts/thrive-in-obscurity) ----- [HN](https://news.ycombinator.com/item?id=44155746)
+- [Root for your friends](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html) ----- [HN](https://news.ycombinator.com/item?id=44077533)
+- [How anime fans stumbled upon a mathematical proof](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/) ----- [HN](https://news.ycombinator.com/item?id=43282133)
+- [What I discovered when I asked Amazon to tell me everything Alexa had heard](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard) ----- [HN](https://news.ycombinator.com/item?id=44083105)
 
-## Blogs/Magazines
-
-- [Drew DeVault's blog](https://drewdevault.com/)
-- [Tonsky's blog](https://tonsky.me/)
-- [PostmarketOS blog](https://postmarketos.org/blog/)
-- [IEEE Spectrum](https://spectrum.ieee.org/)
-
-## Organizations
-
-- [EFF](https://www.eff.org/)
-- [Public money, public code](https://publiccode.eu/en/)
-- [The Repair Association](https://www.repair.org/)
-
-## Websites
-
-- [ifixit](https://www.ifixit.com/)
-- [wiby.me](https://wiby.me/) ----- [HN](https://news.ycombinator.com/item?id=30639225)
-- [500mile.email](https://500mile.email/)
-- [Blaze File Transfer](https://blaze.vercel.app/)
-- [Every Noise](https://everynoise.com) ----- [HN](https://news.ycombinator.com/item?id=26668426)
-- [Music Map](https://www.music-map.com/) ----- [HN](https://news.ycombinator.com/item?id=38481426)
-- [kvak.io](https://kvak.io/about)
-- [We are Wayland now!](https://wearewaylandnow.com)
-- [Are We Sixel Yet?](https://www.arewesixelyet.com/)
-- [Hot Examples](https://hotexamples.com/)
-- [suckless.org](https://suckless.org/)
-- [Public Domain Recipes](https://publicdomainrecipes.com/)
-- [Marginalia Search](https://search.marginalia.nu/)
-- [Linux From Scratch](https://www.linuxfromscratch.org/index.html) ----- [HN](https://news.ycombinator.com/item?id=41747966)
-- [GOG](https://www.gog.com)

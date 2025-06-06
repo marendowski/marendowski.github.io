@@ -14,4 +14,4 @@ customcss = "/css/projects.css"
 
 ## About
 
-My first "real" project. By "real" I mean that I wrote a lot of it and used other libraries and APIs. I learned a lot in the process - [Xlib](https://x.org/releases/current/doc/libX11/libX11/libX11.html), how raster graphics work, makefiles, licenses, git basics, and how to find information online. To be honest, I don't even know if it still works.
+My first "real" project. By "real" I mean that I wrote a lot of it and used other libraries and APIs for Linux. I learned a lot in the process - [Xlib](https://x.org/releases/current/doc/libX11/libX11/libX11.html), how raster graphics work, makefiles, licenses, git basics, and how to find information online.

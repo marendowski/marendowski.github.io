@@ -16,6 +16,7 @@ List of learning resources I recommend or helped me learn different topics.
 - [A Hacker's Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - 1,5 hour information packed introduction to LLMs. [Discussion on HN](https://news.ycombinator.com/item?id=37631089)
 - [Anki](https://apps.ankiweb.net/) - [Spaced-repetition](https://en.wikipedia.org/wiki/Spaced_repetition) learning. [HN search with 'anki'](https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=anki&sort=byPopularity&type=story)
 - [Use A Work Journal](https://fev.al/posts/work-journal/) - About the importance of a work journal. [Discussion on HN](https://news.ycombinator.com/item?id=40950584)
+- [How to Use Em Dashes (—), En Dashes (–) , and Hyphens (-)](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use) ----- [HN](https://news.ycombinator.com/item?id=43497719)
 
 ### GDB
 
