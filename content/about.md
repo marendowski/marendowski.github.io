@@ -19,7 +19,7 @@ Are on [projects gallery](../projects) or [Github](https://github.com/marendowsk
 
 ## Contact
 
-My contact e-mail: piotr-marendowski [at] tutanota [dot] com
+My contact e-mail: piotr-marendowski [at] protonmail [dot] com
 
 ## Attribution
 
