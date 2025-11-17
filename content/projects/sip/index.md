@@ -1,6 +1,6 @@
 +++
-image = "sip1.png"
-date = "2023-11-23"
+image = "thumbnail.png"
+date = "2000-01-01"
 title = "sip - Simple Image Previewer for Xorg"
 type = "gallery"
 customcss = "/css/projects.css"
@@ -10,7 +10,7 @@ customcss = "/css/projects.css"
     <h1><a href="https://codeberg.org/marendowski/sip" target="_blank">sip</a></h1>
 {{< /rawhtml >}}
 
-![a](sip2.png)
+![thumbnail](sip.png)
 
 ## About
 

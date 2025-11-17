@@ -1,6 +1,6 @@
 +++
-image = "luft1.png"
-date = "2024-08-22"
+image = "thumbnail.png"
+date = "2000-01-02"
 title = "luft - dbus-less notification “daemon” for wlroots compositors"
 type = "gallery"
 customcss = "/css/projects.css"
@@ -10,7 +10,7 @@ customcss = "/css/projects.css"
     <h1><a href="https://codeberg.org/marendowski/luft" target="_blank">luft</a></h1>
 {{< /rawhtml >}}
 
-![a](luft2.png)
+![thumbnail](luft.png)
 
 ## About
 

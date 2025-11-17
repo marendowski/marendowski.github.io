@@ -1,12 +1,12 @@
 +++
-image = "nas1.jpg"
-date = "2025-06-06"
+image = "thumbnail.jpg"
+date = "2000-01-03"
 title = "My homelab"
 type = "gallery"
 customcss = "/css/projects.css"
 +++
 
-![a](nas2.jpg)
+![thumbnail](nas.jpg)
 
 ## About
 
